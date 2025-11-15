@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+obspy
+torch
+ipywidgets
+pandas
+segyio
+lasio
